@@ -1,0 +1,5 @@
+COVID-19 DATASET DATA ANALYSIS
+
+1. We have take a small dataset of covid-19 which contains about 7786 rows
+2. The data is available as a csv file downlaoded from kaggle.
+3. We will analyze this data using pandas dataframe
